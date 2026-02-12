@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/rodrigo/Documents/netcourse/SecuenciaEscape/SecuenciaEscape/SecuenciaEscape.csproj": {}
+    "/Users/rodrigo/Documents/netcourse/Variables/Variables/Variables.csproj": {}
   },
   "projects": {
-    "/Users/rodrigo/Documents/netcourse/SecuenciaEscape/SecuenciaEscape/SecuenciaEscape.csproj": {
+    "/Users/rodrigo/Documents/netcourse/Variables/Variables/Variables.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/rodrigo/Documents/netcourse/SecuenciaEscape/SecuenciaEscape/SecuenciaEscape.csproj",
-        "projectName": "SecuenciaEscape",
-        "projectPath": "/Users/rodrigo/Documents/netcourse/SecuenciaEscape/SecuenciaEscape/SecuenciaEscape.csproj",
+        "projectUniqueName": "/Users/rodrigo/Documents/netcourse/Variables/Variables/Variables.csproj",
+        "projectName": "Variables",
+        "projectPath": "/Users/rodrigo/Documents/netcourse/Variables/Variables/Variables.csproj",
         "packagesPath": "/Users/rodrigo/.nuget/packages/",
-        "outputPath": "/Users/rodrigo/Documents/netcourse/SecuenciaEscape/SecuenciaEscape/obj/",
+        "outputPath": "/Users/rodrigo/Documents/netcourse/Variables/Variables/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/rodrigo/.nuget/NuGet/NuGet.Config"

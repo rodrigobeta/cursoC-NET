@@ -1,0 +1,15 @@
+/Users/rodrigo/Documents/netcourse/Variables/Variables/bin/Debug/net10.0/Variables
+/Users/rodrigo/Documents/netcourse/Variables/Variables/bin/Debug/net10.0/Variables.deps.json
+/Users/rodrigo/Documents/netcourse/Variables/Variables/bin/Debug/net10.0/Variables.runtimeconfig.json
+/Users/rodrigo/Documents/netcourse/Variables/Variables/bin/Debug/net10.0/Variables.dll
+/Users/rodrigo/Documents/netcourse/Variables/Variables/bin/Debug/net10.0/Variables.pdb
+/Users/rodrigo/Documents/netcourse/Variables/Variables/obj/Debug/net10.0/Variables.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rodrigo/Documents/netcourse/Variables/Variables/obj/Debug/net10.0/Variables.AssemblyInfoInputs.cache
+/Users/rodrigo/Documents/netcourse/Variables/Variables/obj/Debug/net10.0/Variables.AssemblyInfo.cs
+/Users/rodrigo/Documents/netcourse/Variables/Variables/obj/Debug/net10.0/Variables.csproj.CoreCompileInputs.cache
+/Users/rodrigo/Documents/netcourse/Variables/Variables/obj/Debug/net10.0/Variables.sourcelink.json
+/Users/rodrigo/Documents/netcourse/Variables/Variables/obj/Debug/net10.0/Variables.dll
+/Users/rodrigo/Documents/netcourse/Variables/Variables/obj/Debug/net10.0/refint/Variables.dll
+/Users/rodrigo/Documents/netcourse/Variables/Variables/obj/Debug/net10.0/Variables.pdb
+/Users/rodrigo/Documents/netcourse/Variables/Variables/obj/Debug/net10.0/Variables.genruntimeconfig.cache
+/Users/rodrigo/Documents/netcourse/Variables/Variables/obj/Debug/net10.0/ref/Variables.dll
