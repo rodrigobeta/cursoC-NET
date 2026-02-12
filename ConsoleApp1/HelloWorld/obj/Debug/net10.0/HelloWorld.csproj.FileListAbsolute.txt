@@ -1,0 +1,14 @@
+/Users/rodrigo/Documents/netcourse/ConsoleApp1/HelloWorld/bin/Debug/net10.0/HelloWorld
+/Users/rodrigo/Documents/netcourse/ConsoleApp1/HelloWorld/bin/Debug/net10.0/HelloWorld.deps.json
+/Users/rodrigo/Documents/netcourse/ConsoleApp1/HelloWorld/bin/Debug/net10.0/HelloWorld.runtimeconfig.json
+/Users/rodrigo/Documents/netcourse/ConsoleApp1/HelloWorld/bin/Debug/net10.0/HelloWorld.dll
+/Users/rodrigo/Documents/netcourse/ConsoleApp1/HelloWorld/bin/Debug/net10.0/HelloWorld.pdb
+/Users/rodrigo/Documents/netcourse/ConsoleApp1/HelloWorld/obj/Debug/net10.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rodrigo/Documents/netcourse/ConsoleApp1/HelloWorld/obj/Debug/net10.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/rodrigo/Documents/netcourse/ConsoleApp1/HelloWorld/obj/Debug/net10.0/HelloWorld.AssemblyInfo.cs
+/Users/rodrigo/Documents/netcourse/ConsoleApp1/HelloWorld/obj/Debug/net10.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/rodrigo/Documents/netcourse/ConsoleApp1/HelloWorld/obj/Debug/net10.0/HelloWorld.dll
+/Users/rodrigo/Documents/netcourse/ConsoleApp1/HelloWorld/obj/Debug/net10.0/refint/HelloWorld.dll
+/Users/rodrigo/Documents/netcourse/ConsoleApp1/HelloWorld/obj/Debug/net10.0/HelloWorld.pdb
+/Users/rodrigo/Documents/netcourse/ConsoleApp1/HelloWorld/obj/Debug/net10.0/HelloWorld.genruntimeconfig.cache
+/Users/rodrigo/Documents/netcourse/ConsoleApp1/HelloWorld/obj/Debug/net10.0/ref/HelloWorld.dll

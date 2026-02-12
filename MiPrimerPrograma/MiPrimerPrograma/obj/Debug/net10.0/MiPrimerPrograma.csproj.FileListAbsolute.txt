@@ -1,0 +1,14 @@
+/Users/rodrigo/Documents/netcourse/MiPrimerPrograma/MiPrimerPrograma/bin/Debug/net10.0/MiPrimerPrograma
+/Users/rodrigo/Documents/netcourse/MiPrimerPrograma/MiPrimerPrograma/bin/Debug/net10.0/MiPrimerPrograma.deps.json
+/Users/rodrigo/Documents/netcourse/MiPrimerPrograma/MiPrimerPrograma/bin/Debug/net10.0/MiPrimerPrograma.runtimeconfig.json
+/Users/rodrigo/Documents/netcourse/MiPrimerPrograma/MiPrimerPrograma/bin/Debug/net10.0/MiPrimerPrograma.dll
+/Users/rodrigo/Documents/netcourse/MiPrimerPrograma/MiPrimerPrograma/bin/Debug/net10.0/MiPrimerPrograma.pdb
+/Users/rodrigo/Documents/netcourse/MiPrimerPrograma/MiPrimerPrograma/obj/Debug/net10.0/MiPrimerPrograma.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rodrigo/Documents/netcourse/MiPrimerPrograma/MiPrimerPrograma/obj/Debug/net10.0/MiPrimerPrograma.AssemblyInfoInputs.cache
+/Users/rodrigo/Documents/netcourse/MiPrimerPrograma/MiPrimerPrograma/obj/Debug/net10.0/MiPrimerPrograma.AssemblyInfo.cs
+/Users/rodrigo/Documents/netcourse/MiPrimerPrograma/MiPrimerPrograma/obj/Debug/net10.0/MiPrimerPrograma.csproj.CoreCompileInputs.cache
+/Users/rodrigo/Documents/netcourse/MiPrimerPrograma/MiPrimerPrograma/obj/Debug/net10.0/MiPrimerPrograma.dll
+/Users/rodrigo/Documents/netcourse/MiPrimerPrograma/MiPrimerPrograma/obj/Debug/net10.0/refint/MiPrimerPrograma.dll
+/Users/rodrigo/Documents/netcourse/MiPrimerPrograma/MiPrimerPrograma/obj/Debug/net10.0/MiPrimerPrograma.pdb
+/Users/rodrigo/Documents/netcourse/MiPrimerPrograma/MiPrimerPrograma/obj/Debug/net10.0/MiPrimerPrograma.genruntimeconfig.cache
+/Users/rodrigo/Documents/netcourse/MiPrimerPrograma/MiPrimerPrograma/obj/Debug/net10.0/ref/MiPrimerPrograma.dll
