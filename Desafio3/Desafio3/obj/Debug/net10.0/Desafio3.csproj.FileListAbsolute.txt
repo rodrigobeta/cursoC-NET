@@ -1,0 +1,15 @@
+/Users/rodrigo/Documents/netcourse/Desafio3/Desafio3/bin/Debug/net10.0/Desafio3
+/Users/rodrigo/Documents/netcourse/Desafio3/Desafio3/bin/Debug/net10.0/Desafio3.deps.json
+/Users/rodrigo/Documents/netcourse/Desafio3/Desafio3/bin/Debug/net10.0/Desafio3.runtimeconfig.json
+/Users/rodrigo/Documents/netcourse/Desafio3/Desafio3/bin/Debug/net10.0/Desafio3.dll
+/Users/rodrigo/Documents/netcourse/Desafio3/Desafio3/bin/Debug/net10.0/Desafio3.pdb
+/Users/rodrigo/Documents/netcourse/Desafio3/Desafio3/obj/Debug/net10.0/Desafio3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rodrigo/Documents/netcourse/Desafio3/Desafio3/obj/Debug/net10.0/Desafio3.AssemblyInfoInputs.cache
+/Users/rodrigo/Documents/netcourse/Desafio3/Desafio3/obj/Debug/net10.0/Desafio3.AssemblyInfo.cs
+/Users/rodrigo/Documents/netcourse/Desafio3/Desafio3/obj/Debug/net10.0/Desafio3.csproj.CoreCompileInputs.cache
+/Users/rodrigo/Documents/netcourse/Desafio3/Desafio3/obj/Debug/net10.0/Desafio3.sourcelink.json
+/Users/rodrigo/Documents/netcourse/Desafio3/Desafio3/obj/Debug/net10.0/Desafio3.dll
+/Users/rodrigo/Documents/netcourse/Desafio3/Desafio3/obj/Debug/net10.0/refint/Desafio3.dll
+/Users/rodrigo/Documents/netcourse/Desafio3/Desafio3/obj/Debug/net10.0/Desafio3.pdb
+/Users/rodrigo/Documents/netcourse/Desafio3/Desafio3/obj/Debug/net10.0/Desafio3.genruntimeconfig.cache
+/Users/rodrigo/Documents/netcourse/Desafio3/Desafio3/obj/Debug/net10.0/ref/Desafio3.dll
