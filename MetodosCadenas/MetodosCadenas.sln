@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodosCadenas", "MetodosCadenas\MetodosCadenas.csproj", "{B24582DE-98B5-43DD-A8C8-ACD50F6C4795}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B24582DE-98B5-43DD-A8C8-ACD50F6C4795}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B24582DE-98B5-43DD-A8C8-ACD50F6C4795}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B24582DE-98B5-43DD-A8C8-ACD50F6C4795}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B24582DE-98B5-43DD-A8C8-ACD50F6C4795}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
